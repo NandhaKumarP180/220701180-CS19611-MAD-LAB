@@ -1,5 +1,4 @@
 <h1>220701180-CS19611-MAD-LAB</h1>
-## Android Examples
 
 - **Ex 01** - GUI Components  
 - **Ex 02** - Simple Calculator  
